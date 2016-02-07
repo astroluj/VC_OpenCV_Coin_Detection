@@ -1,2 +1,2 @@
-# VB_OpenCV_Coin_Detection
-OpenCv coin detection from VB_2010 
+# VS_OpenCV_Coin_Detection
+OpenCV coin detection from VS_2010 
